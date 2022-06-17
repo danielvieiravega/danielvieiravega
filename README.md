@@ -1,16 +1,17 @@
-### Hi there 👋
+<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
+<p align="center">
+<a href="https://www.linkedin.com/in/danielvieiravega"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+</p>
+</p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=danielvieiravega&style=flat-square&color=blue" alt=""></p>
 
-<!--
-**danielvieiravega/danielvieiravega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working as a Backend Software Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 &nbsp; My Stats :
+![Profile Trophy](https://github-profile-trophy.vercel.app/?username=danielvieiravega&theme=dracula)
+
+![Stats](https://github-readme-stats.vercel.app/api/?username=danielvieiravega&theme=dracula)
+
+<!-- <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p> -->
