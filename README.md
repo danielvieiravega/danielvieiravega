@@ -6,7 +6,7 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=danielvieiravega&style=flat-square&color=blue" alt=""></p>
 
 ### :man_technologist: &nbsp;About Me :
-- 🔭 I’m currently working as a Backend Software Engineer
+- 🔭 I’m currently working as a Tech Lead & Software Engineer
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
